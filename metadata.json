@@ -1,0 +1,6 @@
+{
+  "name": "Provident360 - Employment Timeline & PF Discrepancy Platform",
+  "description": "Centralized employment history, timeline overlap detection, PF contribution cross-check, and guided dispute resolution for Indian employees and employers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
